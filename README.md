@@ -3,16 +3,6 @@
 This README provides instructions on how to set up and run the end-to-end test for the https://www.saucedemo.com/
 website.
 
-### set up the environment
-
-#### Create .env file and add the following lines to it:
-
-GITHUB_USERNAME=your_github_username
-
-GITHUB_TOKEN=your_github_token
-
-REPO_NAME=test-repo
-
 ### deploy virtual environment
 
 ```bash
