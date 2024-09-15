@@ -5,7 +5,7 @@ website.
 
 ### set up the environment
 
-Create .env file and add the following lines to it:
+#### Create .env file and add the following lines to it:
 
 GITHUB_USERNAME=your_github_username
 
